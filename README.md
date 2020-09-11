@@ -1,5 +1,7 @@
 # shop_app
 
+Focus on state management
+
 A new Flutter project.
 
 ## Getting Started
